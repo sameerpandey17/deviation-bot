@@ -1,0 +1,32 @@
+From: warehouse.supervisor@apimfg.com
+To: qa.team@apimfg.com
+Date: 18-09-2024 14:32
+Subject: Deviation – Temperature Excursion in Cold Storage Room C2
+
+Hi QA Team,
+
+I am writing to report a deviation observed in our cold storage facility.
+
+On 18-Sep-2024 at approximately 11:15 AM, the temperature in Cold Storage 
+Room C2 (designated for storing raw material RM-ACETYL-02, Acetylsalicylic 
+Acid) was found to be 12°C instead of the required 2°C–8°C range.
+
+Batch / Lot affected: RM-ASA-2409 (approx. 200 kg)
+
+The alarm system did not trigger as expected; it was discovered during 
+routine temperature logging by the warehouse team. The refrigeration unit 
+compressor was found to be in a fault state. Engineering has been informed.
+
+The material has been quarantined and tagged. We estimate the material 
+was outside the temperature range for a maximum of 3 hours.
+
+Please advise on the next steps. We request an urgent risk assessment.
+
+Severity assessment (our initial view): Critical — Patient Safety risk 
+given that this is a pharmaceutical raw material intended for tablet 
+production for cardiac patients.
+
+Regards,
+S. Mehta
+Warehouse Supervisor
+API Manufacturing Unit

@@ -1,0 +1,28 @@
+DEVIATION REPORT — INTERNAL DOCUMENT
+API Manufacturing Unit | Confidential
+
+Date of Occurrence: 14-07-2024
+Batch Number: API-2407-RX
+Product: Ibuprofen Active Pharmaceutical Ingredient
+Source: Manufacturing
+Title: Reactor Temperature Excursion During Synthesis Step 3
+
+DETAILED DESCRIPTION:
+During the synthesis of Ibuprofen batch API-2407-RX on 14-Jul-2024, the 
+jacketed reactor temperature rose to 92°C against an approved operating range 
+of 70°C–80°C. The excursion lasted approximately 25 minutes before the 
+operator manually adjusted the cooling water flow. Approximately 48 kg of 
+in-process material was affected. No visible change in colour or odour was 
+noted at the time of the deviation. The batch has been placed on hold 
+pending QA investigation.
+
+Root Cause (Initial Assessment):
+Cooling water supply valve V-204 appears to have malfunctioned due to 
+possible actuator failure. Maintenance to assess.
+
+Severity: Major
+Initial Impact: Product Quality
+
+Reported by: M. Rajan (Process Operator)
+Shift Supervisor: K. Nair
+QA Notified: Yes (14-Jul-2024, 09:45 IST)

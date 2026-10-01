@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Local configuration and data
+.env
+*.db
+*.sqlite
+*.sqlite3
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
